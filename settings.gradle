@@ -1,0 +1,2 @@
+rootProject.name='SingUpProject'
+include ':app'
